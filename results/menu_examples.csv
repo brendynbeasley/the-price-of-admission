@@ -1,0 +1,8 @@
+case,menu,p_single,p_bundle,revenue,share_excluded,share_one_good,method
+"one good, value U[1,2]",single price,1.0000,,1.0000,0.0000,1.0000,closed form
+"two goods, values U[1,2]",separate prices,1.0000,,2.0000,0.0000,0.0000,grid
+"two goods, values U[1,2]",bundle only,,2.3874,2.2080,0.0751,0.0000,"grid (closed form 2.2083, 0.0750)"
+"two goods, values U[1,2]",best menu found when single-good prices are also allowed,1.4000,2.3900,2.2086,0.0759,0.0000,grid search
+"two goods, values U[0,1]",separate prices,0.5000,,0.5000,0.2500,0.5000,grid
+"two goods, values U[0,1]",bundle only,,0.8165,0.5444,0.3332,0.0000,grid
+"two goods, values U[0,1]",Manelli-Vincent optimal menu,0.6667,0.8619,0.5493,0.3332,0.1302,grid

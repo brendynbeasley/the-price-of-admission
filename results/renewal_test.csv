@@ -1,0 +1,2 @@
+measure,mean_increase_years,mean_other_years,delta_hat,se_hc1,ci95_low,ci95_high,p_hc1,permutation_p,n_increase_years,n_other_years,n,years
+change in US and Canada renewal rate (points),0.0667,0.3900,-0.3233,0.3233,-0.9570,0.3103,0.3173,0.4403,6,10,16,2011-2026

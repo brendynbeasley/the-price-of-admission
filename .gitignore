@@ -1,0 +1,16 @@
+# SEC EDGAR downloads (company facts, submissions, 10-K filings) are fetched by src/warehouse_tariffs.py
+data/raw/sec/
+*.part
+
+# Secrets
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

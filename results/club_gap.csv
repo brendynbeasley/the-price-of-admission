@@ -1,0 +1,4 @@
+outcome,beta_club,se_cluster,ci95_low,ci95_high,p_cluster,p_permutation,assignments,n,companies
+markup_over_cost_pct,-19.6784,3.6265,-26.7862,-12.5706,0.0000,0.0179,56,39,8
+opex_pct,-10.0426,1.9847,-13.9326,-6.1527,0.0000,0.0179,56,39,8
+merch_margin_pct,-2.2548,0.9433,-4.1037,-0.4059,0.0168,0.1250,56,39,8
